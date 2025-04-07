@@ -1,4 +1,20 @@
 p{
-    font-size: 64px;
+    font-size: 14px;
     color:purple;
+}
+
+body {
+    font-size: 14px;
+}
+
+p{
+    color:purple;
+}
+
+.gray {
+    color:gray;
+}
+
+#second {
+    font-style: italic;
 }
