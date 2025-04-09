@@ -1,18 +1,20 @@
-p{
-    font-size: 14px;
-    color:purple;
-}
+
 
 body {
     font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line: height 1.5em;
+    background-color:papayawhip;
+    color:rgb(255,0,0);
+
 }
 
 h1,h2 {
     color:blue;
 }
 
-p{
-    color:purple;
+h3 {
+    color:darkgreen;
 }
 
 p span {
@@ -21,10 +23,3 @@ p span {
 
 }
 
-.gray {
-    color:gray;
-}
-
-#second {
-    font-style: italic;
-}
